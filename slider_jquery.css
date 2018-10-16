@@ -6,22 +6,23 @@ body {
 .slide-item-wrapper {
   width: 200px;
   height: 200px;
-  overflow: hidden;
+  /*overflow: hidden;*/
 }
 
 .slide-item-wrapper > * {
   transition: .5s ease-in-out;
+
 }
 
 .box-item {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: red;
-  color: white;
+  /*background: red;*/
+  /*color: white;*/
   width: 200px;
   height: 200px;
-  margin: 0px;
+  margin: 3px;
   padding: 0px;
 }
 
